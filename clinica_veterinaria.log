@@ -1,0 +1,24 @@
+2025-05-25 23:53:56,019 - INFO - Inicio de la aplicaci�n Cl�nica Veterinaria
+2025-05-25 23:54:19,733 - ERROR - Excepci�n general al registrar mascota.
+Traceback (most recent call last):
+  File "c:\Users\danil\OneDrive\Escritorio\Software Development\Programming\Python\Curso SoftServe\sistema_avanzado_gestion_veterinaria\main.py", line 70, in registrar_mascota
+    if edad < 0:
+       ^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+2025-05-25 23:54:50,589 - ERROR - Excepci�n general al registrar mascota.
+Traceback (most recent call last):
+  File "c:\Users\danil\OneDrive\Escritorio\Software Development\Programming\Python\Curso SoftServe\sistema_avanzado_gestion_veterinaria\main.py", line 70, in registrar_mascota
+    if edad < 0:
+       ^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+2025-05-25 23:56:12,912 - INFO - Inicio de la aplicaci�n Cl�nica Veterinaria
+2025-05-25 23:56:53,462 - INFO - Mascota registrada exitosamente: Michi, Due�o: Danilo
+2025-05-25 23:57:31,047 - INFO - Mascota registrada exitosamente: Firulais, Due�o: Mar�a
+2025-05-25 23:58:13,006 - INFO - Mascota registrada exitosamente: Kika, Due�o: Elmer
+2025-05-25 23:59:18,894 - INFO - Consulta registrada para Firulais en 2025-05-05
+2025-05-25 23:59:47,365 - INFO - No hay consultas para la mascota Michi
+2025-05-25 23:59:55,820 - ERROR - Valor inv�lido para ver historial de consultas.
+2025-05-26 00:00:02,163 - WARNING - El �ndice seleccionado est� fuera del rango: ID de mascota no v�lido.
+2025-05-26 00:00:16,171 - ERROR - Valor inv�lido para ver historial de consultas.
+2025-05-26 00:03:28,154 - INFO - Inicio de la aplicaci�n.
+2025-05-26 00:03:32,211 - INFO - Cierre de la aplicaci�n.
